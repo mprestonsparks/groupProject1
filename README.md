@@ -7,7 +7,9 @@
 &nbsp; A simple, user-friendly web app to find nearby hiking trails. </br></br>
 
 &nbsp; **Problems**</br>
-* test </br>
+Issue: text </br>
+Solution: text </br></br>
+
 
 &nbsp; **Solutions** </br>
 &nbsp; text </br></br>
