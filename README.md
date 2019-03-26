@@ -4,10 +4,10 @@
 
 
 &nbsp; **Purpose** </br>
-&nbsp; text </br></br>
+&nbsp; A simple, user-friendly web app to find nearby hiking trails. </br></br>
 
 &nbsp; **Problems** </br>
-&nbsp; text </br></br>
+&nbsp; <ul><li> test <li> test </br></br>
 
 &nbsp; **Solutions** </br>
 &nbsp; text </br></br>
