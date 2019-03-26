@@ -1,20 +1,16 @@
 # [uHike]
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-### Other Contributors
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamie Epstein @[JASEpstein] </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lisa Vo @[thuyngavo] </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colby Cooke @[cookecn] </br> 
 
------
-### The Purpose
+
+### Purpose
 text
 
-### The Problems
+### Problems
 text
 
 
-### The Solutions
+### Solutions
 text
 
 ### Technical Approach
@@ -23,6 +19,11 @@ text
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**APIs Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps, [Hiking Project] </br>
 
+-----
+### Other Contributors
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamie Epstein @[JASEpstein] </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lisa Vo @[thuyngavo] </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colby Cooke @[cookecn] </br> 
 
  [uHike]: <https://mprestonsparks.github.io/uHike/>
  [JASEpstein]: <https://github.com/JASEpstein/>
