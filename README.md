@@ -17,14 +17,14 @@
 </br>&nbsp; ``Solution: text ``
 
 </br>
-&nbsp; **Technical Approach** </br>
+**Technical Approach** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, HTML, CSS, jQuery, AJAX </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**APIs Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps, [Hiking Project] </br>
 
 -----
-&nbsp; **Other Contributors** </br>
+**Other Contributors** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamie Epstein @[JASEpstein] </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lisa Vo @[thuyngavo] </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colby Cooke @[cookecn] </br> 
