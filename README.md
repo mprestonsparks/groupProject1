@@ -2,9 +2,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Other Contributors
-##### Jamie Epstein @[JASEpstein] </br>
-##### Lisa Vo @[thuyngavo] </br>
-##### Colby Cooke @[cookecn] </br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamie Epstein @[JASEpstein] </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lisa Vo @[thuyngavo] </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colby Cooke @[cookecn] </br> 
 
 -----
 ### The Purpose
