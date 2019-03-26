@@ -6,13 +6,16 @@
 &nbsp; **Purpose** </br>
 &nbsp; A simple, user-friendly web app to find nearby hiking trails. </br></br>
 
-&nbsp; **Problems**</br>
-Issue: text </br>
-Solution: text </br></br>
+&nbsp; **Challenges**
+</br>&nbsp; `` Issue: text ``
+</br>&nbsp; ``Solution: text ``
+</br>
+</br>&nbsp; `` Issue: text ``
+</br>&nbsp; ``Solution: text ``
+</br>
+</br>&nbsp; `` Issue: text ``
+</br>&nbsp; ``Solution: text ``
 
-
-&nbsp; **Solutions** </br>
-&nbsp; text </br></br>
 
 &nbsp; **Technical Approach** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
