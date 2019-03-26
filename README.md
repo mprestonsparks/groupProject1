@@ -1,34 +1,31 @@
-# uHike
+# [uHike]
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### Other Contributors
+### Other Contributors
+##### Jamie Epstein @[JASEpstein]
+##### Lisa Vo @[thuyngavo]
+##### Colby Cooke @[cookecn]  
 
-###### Jamie Epstein @[JASEpstein]
-###### Lisa Vo @[thuyngavo]
-###### Colby Cooke @[cookecn]  
+-----
+### The Purpose
+text
 
-
-######  View the [Deployed Version]
-
-
-#### The Purpose
-
-
-#### The Problems
+### The Problems
+text
 
 
+### The Solutions
+text
 
-#### The Solutions
+### Technical Approach
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, HTML, CSS, jQuery, AJAX </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**APIs Used** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps, [Hiking Project] </br>
 
 
-#### Technical Approach 
-##### Technology Used
-*JavaScript, HTML, CSS, jQuery, AJAX
-##### APIs Used
-*Google Maps, https://www.hikingproject.com/data
-
-
- [Deployed Version]: <https://mprestonsparks.github.io/uHike/>
+ [uHike]: <https://mprestonsparks.github.io/uHike/>
  [JASEpstein]: <https://github.com/JASEpstein/>
  [thuyngavo]: <https://github.com/thuyngavo/>
  [cookecn]: <https://github.com/cookecn/>
+ [Hiking Project]: <https://www.hikingproject.com/data/>
