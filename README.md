@@ -16,7 +16,7 @@
 </br>&nbsp; `` Issue: text ``
 </br>&nbsp; ``Solution: text ``
 
-
+</br></br>
 &nbsp; **Technical Approach** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, HTML, CSS, jQuery, AJAX </br>
