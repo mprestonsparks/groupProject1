@@ -3,24 +3,23 @@
 
 
 
-### Purpose
-text
+&nbsp; **Purpose** </br>
+&nbsp; text </br></br>
 
-### Problems
-text
+&nbsp; **Problems** </br>
+&nbsp; text </br></br>
 
+&nbsp; **Solutions** </br>
+&nbsp; text </br></br>
 
-### Solutions
-text
-
-### Technical Approach
+&nbsp; **Technical Approach** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, HTML, CSS, jQuery, AJAX </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**APIs Used** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps, [Hiking Project] </br>
 
 -----
-### Other Contributors
+&nbsp; **Other Contributors** </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jamie Epstein @[JASEpstein] </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lisa Vo @[thuyngavo] </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Colby Cooke @[cookecn] </br> 
