@@ -1,12 +1,20 @@
-# groupProject1
-  *Group Project 1
+# uHike
 
 
-# Contributors
-*@cookecn
-*@JASEpstein
-*@thuyngavo
-*@mprestonsparks
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+#### Other Contributors
+
+###### Jamie Epstein @[JASEpstein]
+###### Lisa Vo @[thuyngavo]
+###### Colby Cooke @[cookecn]  
+
+
+######  View the [Deployed Version]
+
+
+----
 
 # Technology
 *Bootstrap, CSS, and jQuery, AJAX, and everything else.
@@ -19,3 +27,8 @@
 
 # Contributions
 * As of now, this repository should only be changed/altered via Vanderbilt University professors and TA's from the bootcamp as well as the contributors.
+
+ [Deployed Version]: <https://mprestonsparks.github.io/uHike/>
+ [JASEpstein]: <https://github.com/JASEpstein/>
+ [thuyngavo]: <https://github.com/thuyngavo/>
+ [cookecn]: <https://github.com/cookecn/>
