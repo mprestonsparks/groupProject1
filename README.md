@@ -7,8 +7,8 @@
 &nbsp; A simple, user-friendly web app to find nearby hiking trails. </br></br>
 
 &nbsp; **Challenges**
-</br>&nbsp; `` Issue: text ``
-</br>&nbsp; ``Solution: text ``
+</br>&nbsp; `` Issue: Determine user's location on load of page ``
+</br>&nbsp; ``Solution: Utilize the Google Maps API's geolocation.getCurrentPosition function ``
 </br>
 </br>&nbsp; `` Issue: text ``
 </br>&nbsp; ``Solution: text ``
