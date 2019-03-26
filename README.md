@@ -17,11 +17,12 @@
 </br>&nbsp; ``Solution: text ``
 
 </br>
+
 **Technical Approach** </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Technology Used** </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, HTML, CSS, jQuery, AJAX </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**APIs Used** </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps, [Hiking Project] </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Technology Used** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript, HTML, CSS, jQuery, AJAX </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **APIs Used** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Google Maps, [Hiking Project] </br>
 
 -----
 **Other Contributors** </br>
