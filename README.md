@@ -4,7 +4,7 @@
 
 
 &nbsp; **Purpose** </br>
-&nbsp; A simple, user-friendly web app to find nearby hiking trails. </br></br>
+&nbsp; A simple, user-friendly web app to find nearby hiking trails </br></br>
 
 &nbsp; **Challenges**
 </br>&nbsp; `` Issue: Determine user's location on load of page ``
